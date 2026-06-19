@@ -9,7 +9,8 @@ Welcome to my central hub for documenting my deep dive back into Python fundamen
 | Day | Project Name | Key Concepts Covered | Code Link |
 | :--- | :--- | :--- | :--- |
 | **Day 01** | Dynamic Inventory & Text Analyzer | Strings `[::-1]`, Lists (`pop`/`remove`), Tuples | [View Day 1 Code 🚀](https://github.com/Pestingo/python-relearning-journey/tree/775db26eba85abcdc1690ded93a949850a59f989/Day_01_Text_Analyzer) |
-| **Day 02** | *Coming Soon* | *Pending* | *In Progress* |
+| **Day 02** | Smart Access Control Manager | Sets (Operations), Dictionaries, `if-elif-else` | [View Day 2 Code 🚀](https://github.com/Pestingo/python-relearning-journey/tree/46da9074ec64f9757c994843455e4c0845b5ea68/Day_02) |
+| **Day 03** | *Coming Soon* | *Pending* | *In Progress* |
 
 ---
 
