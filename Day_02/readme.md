@@ -1,4 +1,4 @@
-# Day 02: Smart Access Control & Profile Manager
+# Day 02: Smart Access Control and Profile Manager
 
 ## 📝 Overview
 Day 02 focused on shifting from linear sequences to complex key-value data mappings, handling unique elements via mathematical sets, and structural conditional logic (`if-elif-else`). This project simulates a dynamic identity and access management system.
